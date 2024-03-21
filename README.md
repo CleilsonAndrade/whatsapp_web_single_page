@@ -16,7 +16,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Single page clone da interface do WhatsApp Web, com intuito de estudos sobre HTML e CSS e suas propriedades.
+Single page clone da interface do WhatsApp Web, com intuito de estudos sobre HTML e CSS e suas propriedades e utilizando o pacote de ícones [**Font Awesome**](https://fontawesome.com/).
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Responsividade<br>
@@ -51,7 +51,7 @@ Single page clone da interface do WhatsApp Web, com intuito de estudos sobre HTM
   * OpenSans, sans-serif
 
 - <span id="ícones">Ícones<br></span>
-  * Fontawesome
+  * Font Awesome
 
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
