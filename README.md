@@ -56,7 +56,7 @@ Single page clone da interface do WhatsApp Web, com intuito de estudos sobre HTM
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/whatsapp_web_single_page
+  $ git clone https://github.com/CleilsonAndrade/whatsapp_web_single_page.git
   $ cd ./whatsapp_web_single_page
 ```
 
