@@ -19,7 +19,7 @@
 Single page clone da interface do WhatsApp Web, com intuito de estudos sobre HTML e CSS e suas propriedades.
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
-- [x] Validação de usuários<br>
+- [x] Responsividade<br>
 
 # 💻 <span id="tecnologias">Tecnologias</span>
 - **HTML**
